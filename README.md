@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+<h3>Here is a glimpse of my project showcase. If Vercel is not working, you can look at these pictures to view the project.</h3>
 <img width="956" alt="save1" src="https://github.com/user-attachments/assets/7938f28a-185a-43e4-a456-7fda7f6ef8d0">
 <img width="959" alt="save 2" src="https://github.com/user-attachments/assets/58dcbed2-3d07-47c2-b999-00c2f5fc4d30">
 <img width="951" alt="saev 3" src="https://github.com/user-attachments/assets/49e4d3aa-af2e-41c8-ae2a-90943d79e23c">
